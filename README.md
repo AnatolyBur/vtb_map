@@ -1,4 +1,4 @@
-# GarpixCMS Empty Template
+# More.Tech 5.0
 
 Cookiecutter template for GarpixCMS == 1.0.0.
 
